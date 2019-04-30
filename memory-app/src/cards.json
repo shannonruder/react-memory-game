@@ -2,84 +2,83 @@
     {
       "id": 1,
       "name": "SpongeBob",
-      "image": "https://www.flickr.com/photos/165547074@N08/32775987417/in/dateposted-public/",
-      "occupation": "Fry Cook",
-      "location": "A Pineapple Under the Sea"
+      "image": "https://live.staticflickr.com/65535/32775986997_a24217da6d_n.jpg"
+
     },
     {
       "id": 2,
       "name": "Mr. Krabs",
-      "image": "https://www.flickr.com/photos/165547074@N08/46802836345/in/dateposted-public/",
+      "image": "https://live.staticflickr.com/65535/47719180481_4c1cb78ca3_n.jpg",
       "occupation": "Restaurant Owner",
       "location": "A Giant Anchor"
     },
     {
       "id": 3,
       "name": "Squidward",
-      "image": "https://www.flickr.com/photos/165547074@N08/47719180481/in/dateposted-public/",
+      "image": "https://live.staticflickr.com/65535/32775987007_201e1e3275_b.jpg",
       "occupation": "Cashier",
       "location": "An Easter Island Head"
     },
     {
       "id": 4,
       "name": "Dexter",
-      "image": "https://www.flickr.com/photos/165547074@N08/32775987297/in/dateposted-public/",
+      "image": "https://live.staticflickr.com/65535/47719180361_6ff3da5fff_n.jpg",
       "occupation": "Boy Genius",
       "location": "A Secret Laboratory"
     },
     {
       "id": 5,
       "name": "Courage",
-      "image": "https://www.flickr.com/photos/165547074@N08/33842157418/in/dateposted-public/",
+      "image": "https://live.staticflickr.com/65535/46802836345_f4edf4f68f_n.jpg",
       "occupation": "A Cowardly Dog",
       "location": "Nowhere, Kansas"
     },
     {
       "id": 6,
       "name": "Doug Funnie",
-      "image": "https://www.flickr.com/photos/165547074@N08/46802836245/in/dateposted-public/",
+      "image": "https://live.staticflickr.com/65535/33842157048_09da70ba5d_b.jpg",
       "occupation": "Student",
       "location": "Bluffington"
     },
     {
       "id": 7,
       "name": "Bugs Bunny",
-      "image": "https://www.flickr.com/photos/165547074@N08/47719180361/in/dateposted-public/",
+      "image": "https://live.staticflickr.com/65535/46802836245_2b0d53dbdd_b.jpg",
       "occupation": "Looney Toon",
       "location": "A Rabbit Burrow"
     },
     {
       "id": 8,
       "name": "Johnny Bravo",
-      "image": "https://www.flickr.com/photos/165547074@N08/33842157258/in/dateposted-public/",
+      "image": "https://live.staticflickr.com/65535/33842157418_fc99b564fe_z.jpg",
       "occupation": "Ladies Man",
       "location": "Aron City"
     },
     {
       "id": 9,
       "name": "Tommy Pickles",
-      "image": "https://www.flickr.com/photos/165547074@N08/33842157048/in/dateposted-public/",
+      "image": "https://live.staticflickr.com/65535/32775987297_59c6056a0a_n.jpg",
       "occupation": "Adventurer",
       "location": "California"
     },
     {
       "id": 10,
       "name": "Rocko",
-      "image": "https://www.flickr.com/photos/165547074@N08/32775986997/in/dateposted-public/",
+      "image": "https://live.staticflickr.com/65535/33842157258_77299840f7_n.jpg",
       "occupation": "Cashier",
       "location": "O-Town, California"
     },
     {
       "id": 11,
       "name": "Captain Planet",
-      "image": "https://www.flickr.com/photos/165547074@N08/32775987007/in/dateposted-public/",
+      "image": "https://live.staticflickr.com/65535/32775986907_c9b40fbcb3_n.jpg",
       "occupation": "Superhero",
       "location": "Earth"
     },
     {
       "id": 12,
       "name": "Ickis",
-      "image": "https://www.flickr.com/photos/165547074@N08/32775986907/in/dateposted-public/",
+      "image": "https://live.staticflickr.com/65535/32775987417_0089e63534_b.jpg",
       "occupation": "Ahhhh! A Real Monster!",
       "location": "Under a City Dump"
     }
